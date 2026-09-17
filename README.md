@@ -1,4 +1,4 @@
-Gerador de Senhas em Python
+GERADOR DE SENHAS EM PYTHON
 
 Programa em Python que gera senhas aleatórias e seguras, a partir das preferências do usuário.
 
